@@ -1,1 +1,1 @@
-# Tweet-similarity
+Natural langugage processing project created by Tomasz Kurcaba and Paulina Szymanek. Goal is to find the most similar tweet to the input tweet in the dataset using TfidfVectorizer model and cosine similarity measure.
